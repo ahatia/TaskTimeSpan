@@ -1,0 +1,7 @@
+C:\dev\.Net\TaskTimeSpan\TaskTimeSpan\bin\Debug\TaskTimeSpan.exe.config
+C:\dev\.Net\TaskTimeSpan\TaskTimeSpan\bin\Debug\TaskTimeSpan.exe
+C:\dev\.Net\TaskTimeSpan\TaskTimeSpan\bin\Debug\TaskTimeSpan.pdb
+C:\dev\.Net\TaskTimeSpan\TaskTimeSpan\obj\Debug\TaskTimeSpan.csprojAssemblyReference.cache
+C:\dev\.Net\TaskTimeSpan\TaskTimeSpan\obj\Debug\TaskTimeSpan.csproj.CoreCompileInputs.cache
+C:\dev\.Net\TaskTimeSpan\TaskTimeSpan\obj\Debug\TaskTimeSpan.exe
+C:\dev\.Net\TaskTimeSpan\TaskTimeSpan\obj\Debug\TaskTimeSpan.pdb
